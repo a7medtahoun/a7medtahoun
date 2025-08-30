@@ -43,25 +43,6 @@
 </p>
 
 ---
-### 📈 Activity Graph
-
-<p align="center">
-  <!-- Dark Theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=ffffff" width="95%"/>
-</p>
-
-<p align="center">
-  <!-- Radical Theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&bg_color=141321&hide_border=true&line=ff3068&point=ffffff" width="95%"/>
-</p>
-
-<p align="center">
-  <!-- Dracula Theme -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&bg_color=282a36&hide_border=true&line=bd93f9&point=ff79c6" width="95%"/>
-</p>
-
-
----
 
 ### 🚀 Featured Projects
 
