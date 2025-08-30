@@ -8,8 +8,12 @@
   <img src="https://i.gifer.com/7efs.gif" width="100%" alt="animated banner"/>
 </p>
 
-<h1 align="center">👋 Hey, I'm <span style="color:#FF2D20">Ahmed Tahon</span></h1>
-<h3 align="center">⚡ Backend Developer | 🚀 Future Network Engineer</h3>
+<h1 align="center">👋 Hey, I'm Ahmed</h1>
+
+<h3 align="center">
+  💻 Backend Developer (Laravel & PHP) <br>
+  🌐 Future Network Engineer
+</h3>
 
 ---
 
@@ -39,11 +43,23 @@
 </p>
 
 ---
-
 ### 📈 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=20232a&hide_border=true&line=00bcd4&point=ffffff" width="95%"/>
+  <!-- Dark Theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=react-dark&bg_color=20232a&hide_border=true&line=61dafb&point=ffffff" width="95%"/>
 </p>
+
+<p align="center">
+  <!-- Radical Theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=radical&bg_color=141321&hide_border=true&line=ff3068&point=ffffff" width="95%"/>
+</p>
+
+<p align="center">
+  <!-- Dracula Theme -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=dracula&bg_color=282a36&hide_border=true&line=bd93f9&point=ff79c6" width="95%"/>
+</p>
+
 
 ---
 
